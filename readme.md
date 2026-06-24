@@ -34,7 +34,7 @@ A$7m#Q9!kLp2
 ```
 
 ## Author
-Your Name
+RONIT RAI
 
 ## License
-MIT License
+----------
