@@ -5,8 +5,7 @@ import string
 def generate_password(length):
     characters = (
         string.ascii_letters +
-        string.digits +
-        string.punctuation
+        string.digits 
     )
 
     password = ''.join(random.choice(characters) for _ in range(length))
